@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Barba</h1>
+<h1 align="center">Hi 👋, I am Patrick Carneiro</h1>
 <h3 align="center">A dedicated Solidity Developer.</h3>
 
-- 🔭 I’m currently working on [Bellum Galaxy](https://twitter.com/bellumgalaxy)
+- 🔭 I am currently working on [Bellum Galaxy](https://twitter.com/bellumgalaxy)
 
-- 🌱 I’m currently learning **React, Figma and Blockchain Security**
+- 🌱 I am currently learning **React, Figma and Blockchain Security**
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=i3arba&show_icons=true&locale=en&layout=compact" alt="i3arba" /></p>
 
