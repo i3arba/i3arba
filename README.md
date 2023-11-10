@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I am Patrick Carneiro</h1>
-<h3 align="center">A dedicated Solidity Developer.</h3>
+<h3 align="center">Founder of Bellum Galaxy</h3>
 
 - 🔭 I am currently working on [Bellum Galaxy](https://twitter.com/bellumgalaxy)
 
