@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I am Patrick Carneiro</h1>
 <h3 align="center">Founder of Bellum Galaxy</h3>
 
-- 🔭 I am currently working on [Bellum Galaxy](https://twitter.com/bellumgalaxy)
+- 🔭 I am currently working on [Bellum Galaxy](https://twitter.com/bellumgalaxy) and learning **NextJS, UI/UX and Blockchain Security**
 
-- 🌱 I am currently learning **React, Figma and Blockchain Security**
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=i3arba&show_icons=true&locale=en&layout=compact" alt="i3arba" /></p>
+- 💪 I am currently building for **Constellation Hackathon** and **IFPR Hackathon**
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=i3arba&show_icons=true&locale=en" alt="i3arba" /></p>
 
