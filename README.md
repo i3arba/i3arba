@@ -2,8 +2,8 @@
 <h3 align="center">Founder of Bellum Galaxy</h3>
 
 - 🔭 Bellum Galaxy [Portfolio](https://github.com/BellumGalaxy).
-- 📖 Learning **NextJS, UI/UX and Blockchain Security**
 - 💪 I am currently building Bellum Galaxy **Stars**
+- 🏅 Developed a TOP20 quality project, [Horizon](https://devpost.com/software/horizon-8qkbv0), which was awarded at the Chainlink Constellation Hackathon.
 
 ##
 
