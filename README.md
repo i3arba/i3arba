@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I am Patrick Carneiro</h1>
 <h3 align="center">Founder of Bellum Galaxy</h3>
 
-- 🔭 Bellum Galaxy [Portfolio](https://github.com/BellumGalaxy).
+- 🔭 Bellum Galaxy [Portfolio](https://github.com/BellumGalaxy/BellumGalaxy).
 - 💪 I am currently building Bellum Galaxy **Stars**
 - 🏅 Developed a TOP20 quality project, [Horizon](https://devpost.com/software/horizon-8qkbv0), which was awarded at the Chainlink Constellation Hackathon.
 
