@@ -77,7 +77,7 @@
 <p align="left">
 <a href="mailto:patrickamc@protonmail.com"><img align="center" src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" alt="i3arba" height="30" width="80" /></a>
 <a href="https://linkedin.com/in/carneiro-patrick77" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="carneiro-patrick77" height="30" width="40" /></a>
-<a href="https://twitter.com/i3arba" target="blank"><img align="center" src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="i3arba" height="30" width="40" /></a>
+<a href="https://twitter.com/i3arba" target="blank"><img align="center" src="https://img.shields.io/badge/X-000000?style=for-the-badge&logoColor=white" alt="i3arba" height="30" width="40" /></a>
 </p>
 
 ##
