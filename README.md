@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I am Patrick Carneiro</h1>
+<h1 align="center">Hi 👋, I am Barba</h1>
 <h3 align="center">Founder of Bellum Galaxy</h3>
 
 - 🔭 My [Portfolio](https://github.com/i3arba/Portfolio/blob/main/README.md).
@@ -27,6 +27,20 @@
 <div style="display: inline_block" align="left">
   <img align="center" alt="Barba-Chainlink" height="30" width="100" src="https://img.shields.io/badge/chainlink-375BD2?style=for-the-badge&logo=chainlink&logoColor=white">
   <img align="center" alt="Barba-VsCode" height="30" width="100" src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
+  <img align="center" alt="Barba-Foundry" height="30" width="30" src="https://avatars.githubusercontent.com/u/99892494?s=48&v=4">
+</div>
+
+##
+
+<h3 align="left"> 🛡 Security & Auditing </h3>
+<div style="display: inline_block" align="left">
+  
+  🦜 [Aderyn](https://github.com/Cyfrin/aderyn?tab=readme-ov-file)
+  
+  🐍 [Slither](https://github.com/crytic/slither)
+  
+  🌐 [Solidity Code Metrics](https://marketplace.visualstudio.com/items?itemName=tintinweb.solidity-metrics)
+  
 </div>
 
 ##
