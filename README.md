@@ -1,5 +1,4 @@
 <h1 align="center">Hi, I am Barba 👋</h1>
-<h3 align="center">Solidity Developer, Security Researcher, Chainlink Advocate & Founder of Bellum Galaxy</h3>
 
 - 🔭 Access my portfolio [here](https://github.com/i3arba/Portfolio/blob/main/README.md).
 - 🏅 Developed a TOP quality project, [Horizon](https://devpost.com/software/horizon-8qkbv0), which was awarded at the Chainlink Constellation Hackathon.
