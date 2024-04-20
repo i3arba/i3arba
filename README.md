@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I am Barba 👋</h1>
 
-- 🔭 Access my portfolio [here](https://github.com/i3arba/Portfolio/blob/main/README.md).
+- 🔭 Access my [portfolio](https://github.com/i3arba/Portfolio/blob/main/README.md).
 - 🏅 Developed a TOP quality project, [Horizon](https://devpost.com/software/horizon-8qkbv0), which was awarded at the Chainlink Constellation Hackathon.
 
 ##
