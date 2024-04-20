@@ -12,7 +12,7 @@
 - Helping with technical support, and translations for Chainlink Portuguese Community.
 - Leading educational initiatives on behalf of and with the support of Chainlink.
 - Creating educational content on Medium:
-  - [PT-BR](https://medium.com/@bellumgalaxy).
+  - [PT-BR](https://medium.com/bellum-galaxy-community).
   - [EN](https://medium.com/@i3arba).
 
 ##
@@ -29,7 +29,6 @@
 - Solidity
 - Rust - Basics
 - Java Script - Basics
-- Assembly (Learning)
 - Huf (Learning)
 
 ##
@@ -67,8 +66,7 @@
 
 <h3 align="left">📭 Contacts</h3>
 
-- [Linkedin](https://linkedin.com/in/i3arba)
-- [X](https://twitter.com/i3arba)
+- [linktree](https://linktr.ee/i3arba)
 
 ##
 
