@@ -27,9 +27,7 @@
 <h3 align="left"> 👩‍💻 Programing Languages </h3>
 
 - Solidity
-- Rust - Basics
 - Java Script - Basics
-- Huf (Learning)
 
 ##
 
