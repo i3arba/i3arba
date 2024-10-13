@@ -1,14 +1,15 @@
 <h1 align="center">Hi, I am Barba 👋</h1>
 
 - 🔭 Access my [portfolio](https://github.com/i3arba/Portfolio/blob/main/README.md).
-- 🏅 Developed a TOP quality project, [Horizon](https://devpost.com/software/horizon-8qkbv0), which was awarded at the Chainlink Constellation Hackathon.
+- 🏅 Two-Time TOP Quality Project Winner of Chainlink's [Constellation](https://devpost.com/software/horizon-8qkbv0) & [Block Magic Hackathons](https://devpost.com/software/trident-d2lakz).
+- 🏆 Three Web3 Hackathons & Three prizes on the curriculum.
 
 ##
 <h3 align="left"> 💪 What I am About Recently </h3>
 
-- Helping onboard web2 devs and user on Web3.
+- CEO of Seventy Seven Innovation Labs company.
+- Helping onboard web2 devs and users on Web3 through the Bellum Galaxy community.
 - Transforming Web3 into a safer ecosystem by actively participating in audit processes.
-- Building Bellum Galaxy **Stars**.
 - Helping with technical support, and translations for Chainlink Portuguese Community.
 - Leading educational initiatives on behalf of and with the support of Chainlink.
 - Creating educational content on Medium:
@@ -50,15 +51,7 @@
 - Forked Tests
 - Stateless Fuzzing (Improving)
 - Stateful Fuzzing (Improving)
-- Formal Verification (Learning)
-
-##
-
-<h3 align="left"> 👨‍💻 Office </h3>
-
-- Miro
-- Excalidraw
-- Notion
+- Formal Verification (On the list to learn)
 
 ##
 
