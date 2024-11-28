@@ -1,13 +1,12 @@
 <h1 align="center">Hi, I am Barba 👋</h1>
 
-- 🔭 Access my [portfolio](https://github.com/i3arba/Portfolio/blob/main/README.md).
 - 🏅 Two-Time TOP Quality Project Winner of Chainlink's [Constellation](https://devpost.com/software/horizon-8qkbv0) & [Block Magic Hackathons](https://devpost.com/software/trident-d2lakz).
 - 🏆 Three Web3 Hackathons & Three prizes on the curriculum.
 
 ##
 <h3 align="left"> 💪 What I am About Recently </h3>
 
-- CEO of Seventy Seven Innovation Labs company.
+- CEO of 77 Innovation Labs.
 - Helping onboard web2 devs and users on Web3 through the Bellum Galaxy community.
 - Transforming Web3 into a safer ecosystem by actively participating in audit processes.
 - Helping with technical support, and translations for Chainlink Portuguese Community.
