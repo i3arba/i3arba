@@ -1,64 +1,92 @@
-<h1 align="center">Hi, I am Barba 👋</h1>
+<h1 align="center">🚀 Hey, I am Barba 👋</h1>
 
-- 🏅 Two-Time TOP Quality Project Winner of Chainlink's [Constellation](https://devpost.com/software/horizon-8qkbv0) & [Block Magic Hackathons](https://devpost.com/software/trident-d2lakz).
-- 🏆 Three Web3 Hackathons & Three prizes on the curriculum.
+<p align="center">
+  <img src="https://github.com/i3arba/banner.png" alt="Banner" width="800"/>
+</p>
 
-##
-<h3 align="left"> 💪 What I am About Recently </h3>
+## 🏆 Hackathon Achievements
 
-- CEO of 77 Innovation Labs.
-- Helping onboard web2 devs and users on Web3 through the Bellum Galaxy community.
-- Transforming Web3 into a safer ecosystem by actively participating in audit processes.
-- Helping with technical support, and translations for Chainlink Portuguese Community.
-- Leading educational initiatives on behalf of and with the support of Chainlink.
-- Creating educational content on Medium:
-  - [PT-BR](https://medium.com/bellum-galaxy-community).
-  - [EN](https://medium.com/@i3arba).
+<p align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="" alt="Constellation Hackathon" width="250"/>
+        <br/>
+        <b>🏅 Chainlink Constellation</b>
+        <br/>
+        <a href="https://devpost.com/software/horizon-8qkbv0">View Project</a>
+      </td>
+      <td align="center">
+        <img src="" alt="Block Magic Hackathon" width="250"/>
+        <br/>
+        <b>🏅 Chainlink Block Magic</b>
+        <br/>
+        <a href="https://devpost.com/software/trident-d2lakz">View Project</a>
+      </td>
+      <td align="center">
+        <img src="" alt="Blockchain RIO" width="250"/>
+        <br/>
+        <b>🏆 Blockchain RIO</b>
+        <br/>
+        <a href="https://taikai.network/blockchainrio/hackathons/blockchainriohack24/results">View Project</a>
+      </td>
+    </tr>
+  </table>
+</p>
 
-##
+---
 
-<h3 align="left"> 👩‍💻 Human Languages </h3>
+## 💪 What I’m Focused On
 
-- Brazilian Portuguese
-- English
+- 🦾 **CEO of 77 Innovation Labs** – Redefining Web3 security and education.
+- 🌍 **Onboarding Web2 developers and users into Web3** via the **Bellum Galaxy** community.
+- 🔐 **Strengthening Web3 security** by participating in **audit processes** and research.
+- 🤝 **Supporting the Chainlink Portuguese Community** with translations and technical assistance.
+- 🎓 **Leading educational initiatives** with the support of **Chainlink**.
+- ✍️ **Creating educational content on Medium**:
+  - [🇧🇷 PT-BR](https://medium.com/bellum-galaxy-community)
+  - [🇺🇸 EN](https://medium.com/@i3arba)
 
-##
+---
 
-<h3 align="left"> 👩‍💻 Programing Languages </h3>
+## 🗣️ Languages
 
-- Solidity
-- Java Script - Basics
+- 🇧🇷 Brazilian Portuguese (Native)
+- 🇺🇸 English
 
-##
+---
 
-<h3 align="left"> Tools </h3>
+## 🖥️ Tech Stack
 
-  🛠️ [Foundry](https://book.getfoundry.sh/)
-  
-  🦜 [Aderyn](https://github.com/Cyfrin/aderyn?tab=readme-ov-file)
-  
-  🐍 [Slither](https://github.com/crytic/slither)
-  
-  🌐 [Solidity Code Metrics](https://marketplace.visualstudio.com/items?itemName=tintinweb.solidity-metrics)
+### 👨‍💻 Programming Languages
+- 🟡 Solidity
+- 🔵 JavaScript
 
-##
+### 🔧 Tools & Frameworks
+- 🛠️ [Foundry](https://book.getfoundry.sh/)
+- 🦜 [Aderyn](https://github.com/Cyfrin/aderyn?tab=readme-ov-file)
+- 🐍 [Slither](https://github.com/crytic/slither)
 
-<h3 align="left"> 🛡 Auditing Techniques </h3>
+---
 
-- Unit Tests
-- Integration Tests
-- Forked Tests
-- Stateless Fuzzing (Improving)
-- Stateful Fuzzing (Improving)
-- Formal Verification (On the list to learn)
+## 🛡 Testing Techniques
+- ✅ Unit Tests
+- 🔄 Integration Tests
+- 🌍 Forked Tests
+- 🎯 Fuzzing
+- 🏛 Formal Verification (Upcoming)
 
-##
+---
 
-<h3 align="left">📭 Contacts</h3>
+## 📫 Contact Me
 
-- [linktree](https://linktr.ee/i3arba)
+🔗 [Linktree](https://linktr.ee/i3arba)
 
-##
+<br>
 
-[![Barba GitHub stats](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{i3arba}1212%2Fhit-counter)](https://github.com/i3arba)
+🔗 **GitHub Stats**  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=i3arba&show_icons=true&theme=tokyonight)
 
+---
+
+🔥 Always pushing the boundaries of **Web3 security & education**!
