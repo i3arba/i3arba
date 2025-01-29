@@ -1,30 +1,26 @@
 <h1 align="center">🚀 Hey, I am Barba 👋</h1>
 
-<p align="center">
-  <img src="https://github.com/i3arba/banner.png" alt="Banner" width="800"/>
-</p>
-
 ## 🏆 Hackathon Achievements
 
 <p align="center">
   <table>
     <tr>
       <td align="center">
-        <img src="" alt="Constellation Hackathon" width="250"/>
+        <img src="./images/horizon.png" alt="Constellation Hackathon" width="250"/>
         <br/>
         <b>🏅 Chainlink Constellation</b>
         <br/>
         <a href="https://devpost.com/software/horizon-8qkbv0">View Project</a>
       </td>
       <td align="center">
-        <img src="" alt="Block Magic Hackathon" width="250"/>
+        <img src="./images/trident.png" alt="Block Magic Hackathon" width="250"/>
         <br/>
         <b>🏅 Chainlink Block Magic</b>
         <br/>
         <a href="https://devpost.com/software/trident-d2lakz">View Project</a>
       </td>
       <td align="center">
-        <img src="" alt="Blockchain RIO" width="250"/>
+        <img src="./images/spark.png" alt="Blockchain RIO" width="250" height="250"/>
         <br/>
         <b>🏆 Blockchain RIO</b>
         <br/>
@@ -39,7 +35,7 @@
 ## 💪 What I’m Focused On
 
 - 🦾 **CEO of 77 Innovation Labs** – Redefining Web3 security and education.
-- 🌍 **Onboarding Web2 developers and users into Web3** via the **Bellum Galaxy** community.
+- 🌍 **Onboarding Web2 developers and users and developers into Web3** via the **77 Innovation Labs** community.
 - 🔐 **Strengthening Web3 security** by participating in **audit processes** and research.
 - 🤝 **Supporting the Chainlink Portuguese Community** with translations and technical assistance.
 - 🎓 **Leading educational initiatives** with the support of **Chainlink**.
